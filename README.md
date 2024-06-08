@@ -1,7 +1,7 @@
 # IOS-Dev
 The iOS component of the Ech0Cell project aims to provide an effective mobile application specifically designed for iPhone users. This application is specifically created to provide users with the ability to monitor and control their cellular data and network performance in real-time.
 
-# How It Works
+## How It Works
 **1-Data Collection:**
 The application gets several network and data use stats straight from the iOS system APIs. This includes the current signal strength, the rate at which data is being sent, and the kind of connection being used.
 
@@ -21,7 +21,7 @@ The iOS version of Ech0Cell is constructed using the Swift programming language 
 To contribute to the development of Ech0Cell for iOS, follow these steps:
 
 **1-Clone the Repository:**
-git clone https://github.com/Ech0-Cell/IOS-Dev.git
+''' git clone https://github.com/Ech0-Cell/IOS-Dev.git
 
 **2-Open the Project in Xcode:**
 Open Ech0Cell.xcodeproj or Ech0Cell.xcworkspace in Xcode.
